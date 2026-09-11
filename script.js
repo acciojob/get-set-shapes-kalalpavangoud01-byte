@@ -29,6 +29,9 @@ class Rectangle {
 					}
 					
 			   }
+
+               window.Rectangle = Rectangle;
+               window.Square = Square;
        
 
 // Do not change the code below this line
